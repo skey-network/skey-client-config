@@ -1,7 +1,7 @@
 {
   "mainnet": {
     "dataService": {
-      "url": "https://data-service.skey.network/"
+      "url": "https://v4.data-service.skey.network/"
     },
     "explorer": {
       "url": "https://explorer.smartkeyplatform.io/"
@@ -13,7 +13,7 @@
   },
   "testnet": {
      "dataService": {
-      "url": "https://dev.v3.data-service.smartkeyplatform.io"
+      "url": "https://v4.data-service.skey.dev/"
     },
     "explorer": {
       "url": "https://explorer.smartkeyplatform.io/testnet"
